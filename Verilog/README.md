@@ -14,6 +14,6 @@
 # 実行方法
 Pythonディレクトリ化でモデルの学習をし、パラメータデータを生成した上で iverilog.sh を実行すると a.out ができる
 ```
-$ bash iverilog.sh <br>
-$ ./a.out  <br>
+$ bash iverilog.sh 
+$ ./a.out 
 ```
